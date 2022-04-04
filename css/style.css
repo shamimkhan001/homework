@@ -1,0 +1,8 @@
+.black{
+	  width:100px;
+	  height:100px;
+	  background-color: black;
+	  padding:20px;
+	  border:5px solid red;
+	  margin:100px;
+}
